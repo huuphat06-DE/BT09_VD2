@@ -1,6 +1,4 @@
-# HƯỚNG DẪN CUSTOM LOGIN VỚI SPRING BOOT + SECURITY (VD2)
 
-Dự án bài tập cấu hình chức năng Custom Login linh hoạt bằng Username hoặc Email sử dụng Spring Boot và Spring Security. 
 
 ##  Công nghệ sử dụng
 - **Backend:** Spring Boot 4.1.1
